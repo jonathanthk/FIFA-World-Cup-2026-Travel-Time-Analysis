@@ -52,10 +52,10 @@ FIFAWorldCup2026FlightTravel/
 
 ## How to Run This Project
 Clone the repository:
-git clone https://github.com/your-username/FIFAWorldCup2026FlightTravel.git
+git clone https://github.com/jonathanthk/FIFAWorldCup2026TravelTimeAnalysis.git
 
 Open the project folder:
-cd FIFAWorldCup2026FlightTravel
+cd FIFAWorldCup2026TravelTimeAnalysis
 Install the required libraries:
 pip install -r requirements.txt
 
@@ -71,10 +71,9 @@ The analysis assumes teams start at their first match location and finish at the
 Some placeholder playoff team names were manually replaced with teams that were drawn.
 
 ## Limitations
-Actual World Cup 2026 results may differ if the dataset uses predicted or placeholder results.
 Flight distance does not fully capture travel fatigue.
 Other factors such as squad quality, rest days, weather, injuries, and tactics are not included.
 The analysis does not include time zone changes, airport waiting times, or ground transport.
-Conclusion
 
+## Conclusion
 This project found no statistically significant evidence that flight travel distance had a meaningful impact on match outcomes or group stage progression. While travel may still affect teams in real-world conditions, this analysis suggests that distance alone is not a strong predictor of performance.
